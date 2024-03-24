@@ -8,7 +8,7 @@ Run the following commands on your Ubuntu server terminal:
 
 1. Download the setup script:
 ```bash
-curl -o setup.sh https://github.com/eltonvilanculo/ltsubuntu/blob/main/setup.sh
+curl -o setup.sh https://raw.githubusercontent.com/eltonvilanculo/ltsubuntu/main/setup.sh
 ```
 2. Make it executable
    ```bash
